@@ -16,4 +16,4 @@ This project is a simple **online store** built with HTML, CSS, and JavaScript. 
 
 <img width="1917" height="933" alt="Screenshot 2025-07-26 23 35 41" src="https://github.com/user-attachments/assets/338157ad-5a9e-4431-a85d-ac0251668e28" />
 <img width="1919" height="893" alt="Screenshot 2025-07-26 23 35 19" src="https://github.com/user-attachments/assets/3ca816eb-ae19-43ad-8437-b49f03066dd8" />
-
+<img width="778" height="461" alt="Screenshot 2025-07-26 23 38 10" src="https://github.com/user-attachments/assets/89efb3cf-2f4f-4e3c-b0f5-8110454f37e2" />
